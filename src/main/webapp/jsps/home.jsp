@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>PS5technologiesTechnologies- Home Page</title>
+<title>PS5-Home Page</title>
 <link href="images/GOW.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to PS5technologies Technologies Pvt Ltd. Ph No: +91-9980923226 +91-9900012028  ,Bengaluru,Karnataka.</h1>
-<h1 align="center"> PS5technologies Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to Cold Club.</h1>
+<h1 align="center"> Gun Fun Run</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -28,27 +28,28 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <h1><h3> Client Side IP Address </h3><br>
 <%out.print( "Client IP Address :: " + request.getRemoteAddr() ); %><br>
 <%out.print( "Client Name Host :: "+ request.getRemoteHost() );%><br></h1>
+<div style="text-align: center;">
+	<span>
+		<img src="images/788553.jpg" alt="" width="300">
+	</span>
+	</div>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/GOW.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		PS5technologies Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+91-9980923226,+91-9900012028
-		devopstrainingblr@gmail.com
+		PS5, XBOX, Handheld Gaming
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to PS5technologies Technologies</a>
+		<a href="mailto:devopstrainingblr@gmail.com">Mail to FunonRun </a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>PS5technologies Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://PS5technologiestechnologies.com/">PS5technologies Technologies,Bengaluru</a> </small></p>
+<p align=center>PS5  - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://sony.com/">PS5</a> </small></p>
 
 </body>
 </html>
